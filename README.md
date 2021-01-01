@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="proenem" title="proenem" src="frontend/src/assets/images/../proenem.svg" />
+    <img alt="proenem" title="proenem" src="frontend/src/assets/proenemRed.svg" />
     <br/><br/>
     Proenem
     <br/><br/>
